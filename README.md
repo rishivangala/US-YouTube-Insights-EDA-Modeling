@@ -68,7 +68,9 @@ Subcategories Explored:
 
 * Videos posted between 6–10 AM on Monday and Tuesday gain higher average views.
 
-* Random Forest achieved 83% test accuracy on performance classification.
+* Random Forest achieved 81% test accuracy on performance classification.
+  
+* Logistic Regression achieved 83% test accuracy on performance classification.
 
 * Naive Bayes could predict video category from titles with fair accuracy (~55%+).
 
