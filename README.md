@@ -14,11 +14,11 @@ This project analyzes and models the characteristics of trending YouTube videos 
 
 4. Predict a video's content category using only its title and metadata.
 
-### Dataset
+### Dataset (Important)
 
 Source: Kaggle - https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset/data
 
-Files Used: US_youtube_trending_data.csv, US_category_id.json
+Files Used (Download Both): US_youtube_trending_data.csv, US_category_id.json
 
 Size: ~270,000 trending video records
 
